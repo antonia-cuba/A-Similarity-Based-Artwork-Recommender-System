@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.474*"blazon" + 0.053*"detail" + 0.053*"architecture" + 0.053*"sun"')
+(1, '0.288*"animal" + 0.288*"paw" + 0.159*"medieval" + 0.041*"black"')
+(2, '0.364*"tower" + 0.193*"sun" + 0.186*"center" + 0.107*"brick"')
+(3, '0.191*"soldier" + 0.191*"helmet" + 0.191*"top" + 0.191*"detail"')
+

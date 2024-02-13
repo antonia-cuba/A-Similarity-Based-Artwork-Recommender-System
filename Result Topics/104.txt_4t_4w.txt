@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.250*"dry" + 0.250*"color" + 0.250*"autumn" + 0.140*"brown"')
+(1, '0.474*"tree" + 0.315*"nature" + 0.036*"branch" + 0.035*"brown"')
+(2, '0.328*"nature" + 0.328*"landscape" + 0.161*"tree" + 0.037*"brown"')
+(3, '0.449*"branch" + 0.249*"brown" + 0.052*"tree" + 0.050*"autumn"')
+

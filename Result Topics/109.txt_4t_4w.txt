@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.375*"cloud" + 0.209*"road" + 0.208*"house" + 0.042*"fortification"')
+(1, '0.407*"tree" + 0.156*"forest" + 0.156*"castle" + 0.156*"fortification"')
+(2, '0.250*"stone" + 0.250*"fortification" + 0.139*"greenish" + 0.139*"road"')
+(3, '0.312*"forest" + 0.312*"greenish" + 0.063*"fortification" + 0.063*"tree"')
+

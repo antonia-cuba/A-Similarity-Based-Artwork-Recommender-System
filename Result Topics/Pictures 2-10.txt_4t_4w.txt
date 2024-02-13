@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.148*"church" + 0.148*"cathedral" + 0.147*"forest" + 0.147*"mountains"')
+(1, '0.200*"piano" + 0.200*"violin" + 0.200*"instrument" + 0.111*"woman"')
+(2, '0.170*"music" + 0.170*"instrument" + 0.170*"musicians" + 0.170*"architecture"')
+(3, '0.287*"people" + 0.123*"opera" + 0.123*"vintage" + 0.123*"men"')
+

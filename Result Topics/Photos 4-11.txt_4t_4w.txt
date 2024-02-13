@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.362*"zeus" + 0.362*"god" + 0.021*"man" + 0.021*"woman"')
+(1, '0.201*"woman" + 0.170*"man" + 0.107*"hand" + 0.107*"planet"')
+(2, '0.186*"people" + 0.167*"man" + 0.129*"detail" + 0.129*"gods"')
+(3, '0.391*"greenish" + 0.043*"man" + 0.043*"woman" + 0.043*"beard"')
+

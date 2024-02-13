@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.195*"draw" + 0.195*"strip" + 0.195*"dot" + 0.195*"line"')
+(1, '0.196*"wall" + 0.196*"size" + 0.196*"decorative" + 0.194*"black"')
+(2, '0.308*"architecture" + 0.214*"abstract" + 0.214*"build" + 0.025*"nature"')
+(3, '0.237*"branch" + 0.237*"leave" + 0.237*"tree" + 0.026*"nature"')
+

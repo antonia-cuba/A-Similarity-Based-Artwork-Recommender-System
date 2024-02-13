@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.111*"branch" + 0.111*"tree" + 0.111*"reddish" + 0.111*"top"')
+(1, '0.465*"branch" + 0.201*"tree" + 0.200*"letter" + 0.023*"cloud"')
+(2, '0.228*"top" + 0.228*"cloud" + 0.158*"image" + 0.158*"part"')
+(3, '0.352*"reddish" + 0.243*"nature" + 0.243*"tree" + 0.027*"branch"')
+

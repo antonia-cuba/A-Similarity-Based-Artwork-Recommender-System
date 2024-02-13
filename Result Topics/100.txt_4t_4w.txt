@@ -1,0 +1,5 @@
+### Topics from the text ###
+(0, '0.418*"forest" + 0.298*"autumn" + 0.158*"tree" + 0.042*"leave"')
+(1, '0.288*"leave" + 0.222*"orange" + 0.222*"yellow" + 0.160*"tree"')
+(2, '0.167*"tree" + 0.167*"leave" + 0.167*"orange" + 0.167*"yellow"')
+

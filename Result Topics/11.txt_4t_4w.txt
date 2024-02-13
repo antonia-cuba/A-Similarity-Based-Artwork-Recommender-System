@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.555*"cloud" + 0.111*"water" + 0.111*"sky" + 0.111*"dark"')
+(1, '0.471*"blue" + 0.249*"dark" + 0.139*"cloud" + 0.114*"water"')
+(2, '0.502*"sky" + 0.382*"water" + 0.039*"dark" + 0.039*"blue"')
+(3, '0.200*"water" + 0.200*"sky" + 0.200*"cloud" + 0.200*"dark"')
+

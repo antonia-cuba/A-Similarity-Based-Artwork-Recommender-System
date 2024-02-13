@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.186*"mountain" + 0.129*"music" + 0.129*"nature" + 0.129*"eclipse"')
+(1, '0.157*"instrument" + 0.157*"clarinet" + 0.157*"drum" + 0.157*"guitar"')
+(2, '0.144*"build" + 0.100*"line" + 0.100*"strip" + 0.100*"tree"')
+(3, '0.203*"water" + 0.143*"sea" + 0.143*"boat" + 0.143*"architecture"')
+

@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.368*"tree" + 0.195*"nature" + 0.195*"greenish" + 0.025*"cloud"')
+(1, '0.315*"hill" + 0.167*"leave" + 0.167*"shape" + 0.167*"strip"')
+(2, '0.145*"leave" + 0.145*"dry" + 0.145*"side" + 0.145*"branch"')
+(3, '0.291*"cloud" + 0.156*"branch" + 0.156*"wind" + 0.156*"blow"')
+

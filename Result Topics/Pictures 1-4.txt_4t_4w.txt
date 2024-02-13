@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.450*"guitar" + 0.450*"bass" + 0.050*"music" + 0.050*"instrument"')
+(1, '0.450*"instrument" + 0.450*"music" + 0.050*"bass" + 0.050*"guitar"')
+(2, '0.250*"guitar" + 0.250*"bass" + 0.250*"instrument" + 0.250*"black"')
+(3, '0.250*"classical" + 0.250*"guitar" + 0.250*"music" + 0.250*"instrument"')
+

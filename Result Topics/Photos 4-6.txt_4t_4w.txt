@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.224*"construction" + 0.155*"builder" + 0.155*"architect" + 0.155*"build"')
+(1, '0.447*"architecture" + 0.237*"illustration" + 0.027*"wall" + 0.026*"statue"')
+(2, '0.180*"statues" + 0.180*"wall" + 0.180*"detail" + 0.100*"ladder"')
+(3, '0.237*"person" + 0.237*"statue" + 0.132*"columns" + 0.131*"structure"')
+

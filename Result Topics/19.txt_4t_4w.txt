@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.265*"brown" + 0.265*"blue" + 0.265*"feather" + 0.029*"bird"')
+(1, '0.215*"head" + 0.215*"halo" + 0.215*"ring" + 0.213*"bird"')
+(2, '0.500*"beak" + 0.056*"portrait" + 0.056*"profile" + 0.056*"side"')
+(3, '0.405*"bird" + 0.214*"white" + 0.214*"golden" + 0.024*"beak"')
+

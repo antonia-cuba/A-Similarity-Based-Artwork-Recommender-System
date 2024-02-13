@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.108*"violin" + 0.108*"guitar" + 0.108*"horn" + 0.108*"garden"')
+(1, '0.085*"people" + 0.084*"piano" + 0.084*"instrument" + 0.084*"abstract"')
+(2, '0.231*"grey" + 0.231*"men" + 0.026*"woman" + 0.026*"cloud"')
+(3, '0.127*"tree" + 0.127*"nature" + 0.127*"fantasy" + 0.127*"music"')
+

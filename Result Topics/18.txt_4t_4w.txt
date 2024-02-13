@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.220*"yellow" + 0.220*"orange" + 0.220*"flame" + 0.121*"fire"')
+(1, '0.148*"fire" + 0.147*"flower" + 0.147*"blossom" + 0.147*"cherry"')
+(2, '0.310*"petals" + 0.310*"delicate" + 0.034*"fire" + 0.034*"flower"')
+(3, '0.243*"pink" + 0.243*"spring" + 0.243*"flower" + 0.027*"fire"')
+

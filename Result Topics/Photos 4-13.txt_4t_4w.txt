@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.150*"dark" + 0.150*"tree" + 0.150*"elephant" + 0.150*"island"')
+(1, '0.202*"blue" + 0.107*"ocean" + 0.107*"sea" + 0.107*"artwork"')
+(2, '0.135*"strip" + 0.094*"wave" + 0.094*"line" + 0.094*"wavy"')
+(3, '0.135*"man" + 0.135*"boat" + 0.094*"island" + 0.094*"space"')
+

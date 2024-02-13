@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.153*"cello" + 0.153*"piano" + 0.153*"bass" + 0.153*"violin"')
+(1, '0.185*"sing" + 0.185*"bird" + 0.185*"classical" + 0.185*"instrument"')
+(2, '0.582*"instrument" + 0.116*"musical" + 0.116*"music" + 0.023*"classical"')
+(3, '0.185*"classical" + 0.185*"bird" + 0.185*"corner" + 0.185*"musical"')
+

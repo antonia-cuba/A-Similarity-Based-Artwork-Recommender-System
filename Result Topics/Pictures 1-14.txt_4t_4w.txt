@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.150*"piano" + 0.150*"guitar" + 0.150*"drum" + 0.150*"tambourine"')
+(1, '0.321*"music" + 0.321*"colorful" + 0.036*"colorful" + 0.036*"reddish"')
+(2, '0.205*"blue" + 0.205*"yellow" + 0.205*"brown" + 0.205*"reddish"')
+(3, '0.450*"musical" + 0.050*"blue" + 0.050*"instruments" + 0.050*"reddish"')
+

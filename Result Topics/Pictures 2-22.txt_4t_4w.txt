@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.125*"instrument" + 0.125*"music" + 0.125*"percussion" + 0.125*"dot"')
+(1, '0.375*"dot" + 0.375*"picture" + 0.042*"instrument" + 0.042*"percussion"')
+(2, '0.375*"black" + 0.375*"percussion" + 0.042*"tambourine" + 0.042*"drum"')
+(3, '0.188*"drum" + 0.188*"castanets" + 0.188*"triangle" + 0.188*"tambourine"')
+

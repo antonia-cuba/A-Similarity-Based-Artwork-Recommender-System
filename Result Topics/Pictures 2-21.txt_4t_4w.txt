@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.200*"star" + 0.200*"wing" + 0.200*"sky" + 0.200*"blue"')
+(1, '0.170*"form" + 0.170*"line" + 0.170*"strip" + 0.170*"angel"')
+(2, '0.170*"abstract" + 0.170*"branch" + 0.170*"tree" + 0.170*"flower"')
+(3, '0.077*"religious" + 0.077*"flower" + 0.077*"black" + 0.077*"tree"')
+

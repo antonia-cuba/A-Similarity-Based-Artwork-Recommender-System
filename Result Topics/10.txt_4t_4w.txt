@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.225*"rock" + 0.225*"reddish" + 0.224*"grey" + 0.126*"tall"')
+(1, '0.125*"tree" + 0.125*"grey" + 0.125*"blue" + 0.125*"tall"')
+(2, '0.467*"reddish" + 0.179*"dark" + 0.171*"tree" + 0.038*"grey"')
+(3, '0.366*"tree" + 0.248*"tall" + 0.248*"forest" + 0.028*"grey"')
+

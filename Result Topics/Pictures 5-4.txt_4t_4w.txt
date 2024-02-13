@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.364*"build" + 0.249*"wall" + 0.249*"bricks" + 0.028*"cross"')
+(1, '0.125*"bricks" + 0.125*"build" + 0.125*"wall" + 0.125*"architecture"')
+(2, '0.251*"church" + 0.251*"cross" + 0.251*"cathedral" + 0.135*"build"')
+(3, '0.375*"column" + 0.375*"tall" + 0.042*"bricks" + 0.042*"black"')
+

@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.562*"architecture" + 0.063*"shape" + 0.063*"stripes" + 0.063*"geometric"')
+(1, '0.281*"circle" + 0.281*"line" + 0.281*"stripes" + 0.031*"shape"')
+(2, '0.354*"draw" + 0.187*"abstract" + 0.187*"sculpture" + 0.187*"shape"')
+(3, '0.125*"shape" + 0.125*"black" + 0.125*"geometric" + 0.125*"architecture"')
+

@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.173*"angel" + 0.173*"book" + 0.173*"sky" + 0.173*"star"')
+(1, '0.174*"tower" + 0.174*"man" + 0.174*"ladder" + 0.174*"bricks"')
+(2, '0.359*"construction" + 0.186*"night" + 0.186*"architecture" + 0.104*"build"')
+(3, '0.083*"construction" + 0.083*"religion" + 0.083*"background" + 0.083*"religious"')
+

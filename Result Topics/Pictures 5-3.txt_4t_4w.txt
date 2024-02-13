@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.125*"angle" + 0.125*"strip" + 0.125*"geometric" + 0.125*"shape"')
+(1, '0.281*"geometry" + 0.281*"abstract" + 0.281*"draw" + 0.031*"strip"')
+(2, '0.375*"top" + 0.375*"shape" + 0.042*"strip" + 0.042*"angle"')
+(3, '0.425*"line" + 0.225*"angle" + 0.225*"strip" + 0.025*"black"')
+

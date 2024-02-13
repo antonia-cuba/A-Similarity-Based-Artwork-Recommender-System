@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.205*"animal" + 0.205*"halo" + 0.205*"ring" + 0.205*"head"')
+(1, '0.321*"side" + 0.321*"profile" + 0.036*"white" + 0.036*"portrait"')
+(2, '0.250*"golden" + 0.250*"dog" + 0.250*"portrait" + 0.028*"profile"')
+(3, '0.250*"dirty" + 0.250*"fur" + 0.250*"yellow" + 0.028*"golden"')
+

@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.225*"flower" + 0.125*"boy" + 0.125*"hand" + 0.125*"grass"')
+(1, '0.173*"god" + 0.173*"angel" + 0.173*"dot" + 0.173*"dress"')
+(2, '0.179*"woman" + 0.179*"hand" + 0.179*"grass" + 0.179*"boy"')
+(3, '0.321*"sun" + 0.321*"people" + 0.036*"woman" + 0.036*"flower"')
+

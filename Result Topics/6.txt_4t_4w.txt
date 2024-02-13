@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.234*"blue" + 0.179*"cloud" + 0.124*"yellow" + 0.124*"orange"')
+(1, '0.233*"water" + 0.162*"sky" + 0.152*"sunset" + 0.090*"sea"')
+(2, '0.141*"summer" + 0.141*"rain" + 0.141*"storm" + 0.140*"sky"')
+(3, '0.208*"nature" + 0.208*"sun" + 0.042*"sunset" + 0.042*"sun"')
+

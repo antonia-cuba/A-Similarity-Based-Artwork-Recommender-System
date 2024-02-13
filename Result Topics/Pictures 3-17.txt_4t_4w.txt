@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.486*"book" + 0.257*"library" + 0.029*"pot" + 0.029*"shelve"')
+(1, '0.257*"artist" + 0.257*"writer" + 0.257*"beard" + 0.029*"library"')
+(2, '0.257*"shelve" + 0.257*"tea" + 0.257*"brown" + 0.029*"book"')
+(3, '0.257*"head" + 0.257*"man" + 0.257*"shelf" + 0.029*"pot"')
+

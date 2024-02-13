@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.333*"bricks" + 0.333*"black" + 0.037*"blazon" + 0.037*"bridge"')
+(1, '0.091*"bricks" + 0.091*"detail" + 0.091*"wolf" + 0.091*"brick"')
+(2, '0.474*"blazon" + 0.053*"animal" + 0.053*"bricks" + 0.053*"bridge"')
+(3, '0.120*"helmet" + 0.120*"medieval" + 0.120*"armour" + 0.120*"water"')
+

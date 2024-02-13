@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.582*"tree" + 0.249*"pine" + 0.029*"sky" + 0.029*"blue"')
+(1, '0.416*"path" + 0.083*"forest" + 0.083*"blue" + 0.083*"dark"')
+(2, '0.282*"forest" + 0.280*"sky" + 0.279*"blue" + 0.032*"pine"')
+(3, '0.354*"dark" + 0.271*"blue" + 0.187*"night" + 0.104*"path"')
+

@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.138*"church" + 0.138*"library" + 0.138*"artwork" + 0.138*"landmark"')
+(1, '0.111*"build" + 0.111*"structure" + 0.111*"saint" + 0.111*"statue"')
+(2, '0.200*"brown" + 0.200*"reddish" + 0.200*"landscape" + 0.111*"build"')
+(3, '0.360*"castle" + 0.040*"build" + 0.040*"history" + 0.040*"landscape"')
+

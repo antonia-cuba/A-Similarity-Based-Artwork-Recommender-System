@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.067*"old" + 0.067*"abstract" + 0.067*"architecture" + 0.067*"build"')
+(1, '0.127*"trumpet" + 0.127*"instrument" + 0.127*"trombone" + 0.127*"drum"')
+(2, '0.067*"music" + 0.067*"tuba" + 0.067*"drum" + 0.067*"trombone"')
+(3, '0.179*"church" + 0.095*"cathedral" + 0.095*"tower" + 0.095*"cross"')
+

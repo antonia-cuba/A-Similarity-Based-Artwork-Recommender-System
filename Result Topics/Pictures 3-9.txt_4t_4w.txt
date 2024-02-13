@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.125*"strip" + 0.125*"line" + 0.125*"castle" + 0.125*"bell"')
+(1, '0.125*"architecture" + 0.125*"build" + 0.125*"castle" + 0.125*"medieval"')
+(2, '0.266*"tower" + 0.141*"bell" + 0.141*"church" + 0.141*"draw"')
+(3, '0.375*"castle" + 0.375*"old" + 0.042*"historical" + 0.042*"fortification"')
+

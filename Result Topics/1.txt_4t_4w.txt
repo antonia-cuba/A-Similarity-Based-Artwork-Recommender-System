@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.281*"dark" + 0.156*"mountains" + 0.156*"hill" + 0.156*"paint"')
+(1, '0.205*"landscape" + 0.205*"nature" + 0.114*"paint" + 0.114*"hill"')
+(2, '0.225*"orange" + 0.225*"sky" + 0.225*"reddish" + 0.125*"sunset"')
+(3, '0.188*"reddish" + 0.187*"intense" + 0.187*"sunset" + 0.104*"grind"')
+

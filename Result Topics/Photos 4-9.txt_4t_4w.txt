@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.254*"shape" + 0.134*"build" + 0.134*"beehive" + 0.134*"hexagonal"')
+(1, '0.288*"abstract" + 0.153*"geometry" + 0.153*"architecture" + 0.153*"focus"')
+(2, '0.144*"men" + 0.141*"room" + 0.141*"book" + 0.141*"pass"')
+(3, '0.136*"top" + 0.136*"chain" + 0.136*"bottom" + 0.134*"men"')
+

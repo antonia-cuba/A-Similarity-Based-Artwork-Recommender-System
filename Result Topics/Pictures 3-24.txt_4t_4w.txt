@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.237*"nature" + 0.237*"architecture" + 0.237*"statue" + 0.026*"detail"')
+(1, '0.196*"sun" + 0.196*"tree" + 0.196*"leave" + 0.196*"hill"')
+(2, '0.300*"church" + 0.300*"tower" + 0.033*"boat" + 0.033*"water"')
+(3, '0.167*"column" + 0.167*"tall" + 0.167*"water" + 0.167*"draw"')
+

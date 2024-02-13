@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.384*"cloud" + 0.077*"greenish" + 0.077*"dark" + 0.077*"blue"')
+(1, '0.311*"greenish" + 0.172*"forest" + 0.172*"tree" + 0.171*"dark"')
+(2, '0.345*"dark" + 0.147*"sky" + 0.082*"rain" + 0.082*"storm"')
+(3, '0.200*"cloud" + 0.200*"blue" + 0.200*"storm" + 0.200*"rain"')
+

@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.274*"tree" + 0.145*"pine" + 0.145*"shape" + 0.145*"tall"')
+(1, '0.071*"landscape" + 0.071*"blue" + 0.071*"sky" + 0.071*"tree"')
+(2, '0.129*"reddish" + 0.129*"orange" + 0.129*"dark" + 0.129*"yellow"')
+(3, '0.237*"autumn" + 0.237*"front" + 0.237*"forest" + 0.026*"landscape"')
+

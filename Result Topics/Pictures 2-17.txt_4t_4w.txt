@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.281*"violin" + 0.281*"cloud" + 0.281*"sky" + 0.031*"instrument"')
+(1, '0.125*"instrument" + 0.125*"grey" + 0.125*"violin" + 0.125*"music"')
+(2, '0.323*"classical" + 0.323*"grey" + 0.173*"float" + 0.036*"violin"')
+(3, '0.364*"instrument" + 0.249*"music" + 0.249*"violin" + 0.028*"classic"')
+

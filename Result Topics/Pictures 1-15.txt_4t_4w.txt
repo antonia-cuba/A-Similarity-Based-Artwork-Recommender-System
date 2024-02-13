@@ -1,0 +1,6 @@
+### Topics from the text ###
+(0, '0.110*"bass" + 0.110*"instrument" + 0.110*"music" + 0.110*"bass"')
+(1, '0.258*"viola" + 0.179*"orange" + 0.179*"classical" + 0.179*"tower"')
+(2, '0.409*"draw" + 0.045*"build" + 0.045*"brown" + 0.045*"trojan"')
+(3, '0.257*"architecture" + 0.148*"trojan" + 0.148*"wooden" + 0.148*"figure"')
+
