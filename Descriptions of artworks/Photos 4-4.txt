@@ -1,0 +1,15 @@
+This is an abstract geometry drawing. The shapes are one over eachother. The main form is constructed by strange shapes with curves, but also straigth angles.
+
+The colors are grey and white. Some shapes have stripes on them, other ones are clear or slightly colored.
+
+Stack of geometric shapes.
+
+......................
+
+This illustration demonstrates abstract geometry. Each shape is stacked on top of the other. Strange shapes with curves and straight angles make up the basic form.
+
+White and grey make up the hues. While some shapes are clear, others have stripes on them.
+
+The illustration uses the drawing technique.
+
+white
